@@ -599,6 +599,6 @@ See [Changing the default administrator password](#changing-the-default-administ
 
 ## License
 
-Created by **Ketema Deresa**, Software Developer, as a university final-year project and full-stack portfolio demonstration. Contact: [ketemaderesa123@gmail.com](mailto:ketemaderesa123@gmail.com).
+Created by **Ketema Deresa**, Software Developer, as project and full-stack portfolio demonstration. Contact: [ketemaderesa123@gmail.com](mailto:ketemaderesa123@gmail.com).
 
 You may use, modify and extend it for learning and portfolio purposes. If you deploy it publicly, replace the sample data, change all default passwords, set `APP_DEBUG` to `false`, and configure HTTPS.
