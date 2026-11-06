@@ -1,0 +1,17 @@
+# Protect uploaded files from script execution.
+Options -ExecCGI
+AddType text/plain .php .php3 .php4 .php5 .phtml .phar .cgi .pl .py .sh
+RemoveHandler .php .php3 .php4 .php5 .phtml .phar .cgi .pl .py .sh
+RemoveType .php .php3 .php4 .php5 .phtml .phar .cgi .pl .py .sh
+<IfModule mod_php.c>
+    php_flag engine off
+</IfModule>
+<IfModule mod_php7.c>
+    php_flag engine off
+</IfModule>
+<IfModule mod_php8.c>
+    php_flag engine off
+</IfModule>
+<FilesMatch "\.(php|php3|php4|php5|phtml|phar|cgi|pl|py|sh)$">
+    Require all denied
+</FilesMatch>

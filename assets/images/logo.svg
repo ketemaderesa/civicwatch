@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="CivicWatch logo">
+  <defs>
+    <linearGradient id="cwGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#16b8a6"/>
+      <stop offset="100%" stop-color="#0b7f77"/>
+    </linearGradient>
+  </defs>
+  <path d="M32 4 8 13v18c0 14.4 9.8 24.6 24 29 14.2-4.4 24-14.6 24-29V13L32 4Z" fill="#0b1f3a"/>
+  <path d="M32 9 13 16.4v14.8C13 42.7 20.6 51.2 32 55c11.4-3.8 19-12.3 19-23.8V16.4L32 9Z" fill="url(#cwGradient)"/>
+  <path d="M32 17c-6.6 0-12 5.2-12 11.7 0 8.7 12 18.3 12 18.3s12-9.6 12-18.3C44 22.2 38.6 17 32 17Zm0 16.2a4.6 4.6 0 1 1 0-9.2 4.6 4.6 0 0 1 0 9.2Z" fill="#fff"/>
+  <circle cx="32" cy="28.9" r="2.1" fill="#0b1f3a"/>
+</svg>
