@@ -5,7 +5,7 @@ CivicWatch is a complete, database-driven community issue reporting platform bui
 Built with **core PHP (no framework)**, **MySQL**, **Bootstrap 5**, **Leaflet/OpenStreetMap**, **Chart.js** and **Font Awesome**, it runs locally on **XAMPP** with no paid services.
 
 **Developer:** Ketema Deresa — Software Developer  
-**Contact:** [ketemaderesa123@gmail.com](mailto:ketemaderesa123@gmail.com)
+**Contact:** [ketemaderesa123@gmail.com](mailto:ketemaderesa123@gmail.com)                                                   
       Live:  https://civicwatch.rf.gd/index.php
 ---
 
